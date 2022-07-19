@@ -1,0 +1,18 @@
+body {
+	background-color: black;
+	color: white;
+	padding: 20px;
+}
+
+section {
+	border: 2px solid #99A3A4;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+form {
+	border: 2px solid #99A3A4;
+	border-radius: 10px;
+	padding: 10px;
+	color: white;
+}
